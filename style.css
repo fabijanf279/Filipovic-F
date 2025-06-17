@@ -67,7 +67,7 @@ video {
    /* NASLOVI */
    @font-face {
 	   font-family: 'FabijanFilipovic';
-	   src: url('FabijanFilipovic.ttf') format('truetype');
+	   src: url('web/FabijanFilipovic.ttf') format('truetype');
 	   font-weight: normal;
 	   font-style: normal;
 	   font-display: swap;
